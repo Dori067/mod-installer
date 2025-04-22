@@ -7,10 +7,10 @@ set "download_url3=https://cdn.modrinth.com/data/uXXizFIs/versions/i9RcCdZv/ferr
 set "download_url4=https://cdn.modrinth.com/data/nmDcB62a/versions/dUdr6D7I/modernfix-fabric-5.18.0%2Bmc1.20.6.jar"
 set "appdata_path=%appdata%"
 set "mods_folder=%appdata_path%\.minecraft\mods"
-set "mod_name=sodium-fabric-0.5.11-1.20.6.jar"
-set "mod_name2=lithium-fabric-0.12.5-1.20.6.jar"
+set "mod_name=sodium-fabric-0.5.11+mc1.20.6.jar"
+set "mod_name2=lithium-fabric-mc1.20.6-0.12.5.jar"
 set "mod_name3=ferritecore-6.1.1-fabric.jar"
-set "mod_name4=modernfix-fabric-5.18.0-1.20.6.jar"
+set "mod_name4=modernfix-fabric-5.18.0+mc1.20.6.jar"
 
 
 if not exist "%mods_folder%" (
